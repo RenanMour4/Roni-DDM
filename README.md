@@ -1,4 +1,4 @@
-# Roni-DDM
+# Rony-DDM
 
 Nome: Renan B. Moura, Jonathan Tin Yi Chiang, Miguel Lucas Andrade de Souza, João Vitor Brandão Silva
 
